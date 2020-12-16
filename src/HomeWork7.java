@@ -15,7 +15,7 @@ public class HomeWork7 {
             int c = y2 - y1;
             int d = c * c; // c ^2
 
-            int e = (b) + (d); // это - (x2-x1)^2 + (y2-y1)^2
+            int e = (b) + (d); // - (x2-x1)^2 + (y2-y1)^2
 
             Math.sqrt(e); //извлекает из выше перечисленного корень
 
